@@ -22,7 +22,7 @@ try:
 except FileNotFoundError:
     wb = Workbook()
     ws = wb.active
-    #ws.append(["TRIBUNAL", "Fecha"] + ["Header1", "Header2", "Header3"])  # Adjust headers as needed
+    #ws.append(["N°", "Número de Ingreso", "Partes", "Providencias", "TRIBUNAL", "Fecha"])
 
 
 for tribunal in tribunales:

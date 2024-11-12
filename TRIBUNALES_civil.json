@@ -1,0 +1,1102 @@
+[
+    {
+        "cod_tribunal": "2013301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Arica"
+    },
+    {
+        "cod_tribunal": "2013302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de Arica"
+    },
+    {
+        "cod_tribunal": "2013303",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "3º Juzgado de Letras de Arica"
+    },
+    {
+        "cod_tribunal": "2153302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar. Pozo Almonte"
+    },
+    {
+        "cod_tribunal": "2103301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Iquique"
+    },
+    {
+        "cod_tribunal": "2103302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de Iquique"
+    },
+    {
+        "cod_tribunal": "2103303",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "3º Juzgado de Letras de Iquique"
+    },
+    {
+        "cod_tribunal": "2203301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras Tocopilla"
+    },
+    {
+        "cod_tribunal": "2213301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de María Elena"
+    },
+    {
+        "cod_tribunal": "2253301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Calama"
+    },
+    {
+        "cod_tribunal": "2253302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de Calama"
+    },
+    {
+        "cod_tribunal": "2253303",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "3º Juzgado de Letras de Calama"
+    },
+    {
+        "cod_tribunal": "2333301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar. de Taltal"
+    },
+    {
+        "cod_tribunal": "2303101",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras Civil de Antofagasta"
+    },
+    {
+        "cod_tribunal": "2303102",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras Civil de Antofagasta"
+    },
+    {
+        "cod_tribunal": "2303103",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "3º Juzgado de Letras Civil de Antofagasta"
+    },
+    {
+        "cod_tribunal": "2303104",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "4 ° Juzgado de Letras Civil de Antofagasta"
+    },
+    {
+        "cod_tribunal": "2313301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía Mejillones"
+    },
+    {
+        "cod_tribunal": "2353301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar. de Chañaral"
+    },
+    {
+        "cod_tribunal": "2363301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Diego de Almagro"
+    },
+    {
+        "cod_tribunal": "2403301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Copiapó"
+    },
+    {
+        "cod_tribunal": "2403302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de Copiapó"
+    },
+    {
+        "cod_tribunal": "2403303",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "3º Juzgado de Letras de Copiapó"
+    },
+    {
+        "cod_tribunal": "2463301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Freirina"
+    },
+    {
+        "cod_tribunal": "2403304",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "4º Juzgado de Letras de Copiapó"
+    },
+    {
+        "cod_tribunal": "2453301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Vallenar"
+    },
+    {
+        "cod_tribunal": "2453302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de Vallenar"
+    },
+    {
+        "cod_tribunal": "2413301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Caldera"
+    },
+    {
+        "cod_tribunal": "2503301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de la Serena"
+    },
+    {
+        "cod_tribunal": "2503302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de la Serena"
+    },
+    {
+        "cod_tribunal": "2503303",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "3º Juzgado de Letras de la Serena"
+    },
+    {
+        "cod_tribunal": "2523301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Coquimbo"
+    },
+    {
+        "cod_tribunal": "2523302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de Coquimbo"
+    },
+    {
+        "cod_tribunal": "2523303",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "3º Juzgado de Letras de Coquimbo"
+    },
+    {
+        "cod_tribunal": "2543301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Vicuña"
+    },
+    {
+        "cod_tribunal": "2533301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de letras y garantía de Andacollo"
+    },
+    {
+        "cod_tribunal": "2603301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Ovalle"
+    },
+    {
+        "cod_tribunal": "2603302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de Ovalle"
+    },
+    {
+        "cod_tribunal": "2603303",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "3º Juzgado de Letras de Ovalle"
+    },
+    {
+        "cod_tribunal": "2633301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Combarbalá"
+    },
+    {
+        "cod_tribunal": "2703301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Illapel"
+    },
+    {
+        "cod_tribunal": "2723301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar. de los Vilos"
+    },
+    {
+        "cod_tribunal": "3103101",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado Civil de Valparaíso"
+    },
+    {
+        "cod_tribunal": "3103102",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado Civil de Valparaíso"
+    },
+    {
+        "cod_tribunal": "3103103",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "3º Juzgado Civil de Valparaíso"
+    },
+    {
+        "cod_tribunal": "3103109",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "4º Juzgado Civil de Valparaíso"
+    },
+    {
+        "cod_tribunal": "3103110",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "5º Juzgado Civil de Valparaíso"
+    },
+    {
+        "cod_tribunal": "3113101",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado Civil de Viña del Mar"
+    },
+    {
+        "cod_tribunal": "3113102",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado Civil de Viña del Mar"
+    },
+    {
+        "cod_tribunal": "3113103",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "3º Juzgado Civil de Viña del Mar"
+    },
+    {
+        "cod_tribunal": "3143303",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Quilpue"
+    },
+    {
+        "cod_tribunal": "3143304",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de Quilpue"
+    },
+    {
+        "cod_tribunal": "3153301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Villa Alemana"
+    },
+    {
+        "cod_tribunal": "3163301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Casablanca"
+    },
+    {
+        "cod_tribunal": "2753301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de La Ligua"
+    },
+    {
+        "cod_tribunal": "2763301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar. de Petorca"
+    },
+    {
+        "cod_tribunal": "2853301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Los Andes"
+    },
+    {
+        "cod_tribunal": "2853302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de Los Andes"
+    },
+    {
+        "cod_tribunal": "2903301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de San Felipe"
+    },
+    {
+        "cod_tribunal": "2913301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Putaendo"
+    },
+    {
+        "cod_tribunal": "3003301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Quillota"
+    },
+    {
+        "cod_tribunal": "3003302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de Quillota"
+    },
+    {
+        "cod_tribunal": "3023301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de La Calera"
+    },
+    {
+        "cod_tribunal": "3053301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Limache"
+    },
+    {
+        "cod_tribunal": "3203301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de San Antonio"
+    },
+    {
+        "cod_tribunal": "3203302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de San Antonio"
+    },
+    {
+        "cod_tribunal": "3303301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar. de Isla de Pascua"
+    },
+    {
+        "cod_tribunal": "3123301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Quintero"
+    },
+    {
+        "cod_tribunal": "3353101",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado Civil de Rancagua"
+    },
+    {
+        "cod_tribunal": "3353102",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado Civil de Rancagua"
+    },
+    {
+        "cod_tribunal": "3423301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Rengo"
+    },
+    {
+        "cod_tribunal": "3453301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de San Vicente de Tagua Tagua"
+    },
+    {
+        "cod_tribunal": "3473301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras y Gar.de Peumo"
+    },
+    {
+        "cod_tribunal": "3553301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de San Fernando"
+    },
+    {
+        "cod_tribunal": "3553302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de San Fernando"
+    },
+    {
+        "cod_tribunal": "3603301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Santa Cruz"
+    },
+    {
+        "cod_tribunal": "3703301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Pichilemu"
+    },
+    {
+        "cod_tribunal": "3723301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Litueche"
+    },
+    {
+        "cod_tribunal": "3643301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Peralillo"
+    },
+    {
+        "cod_tribunal": "3903301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Talca"
+    },
+    {
+        "cod_tribunal": "3903302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de Talca"
+    },
+    {
+        "cod_tribunal": "3903303",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "3º Juzgado de Letras de Talca"
+    },
+    {
+        "cod_tribunal": "3903304",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "4º Juzgado de Letras de Talca"
+    },
+    {
+        "cod_tribunal": "3973301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Constitución"
+    },
+    {
+        "cod_tribunal": "3983301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Gar. de Curepto"
+    },
+    {
+        "cod_tribunal": "3803301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Curicó"
+    },
+    {
+        "cod_tribunal": "3803302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de Curicó"
+    },
+    {
+        "cod_tribunal": "3863301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Gar. de Licantén"
+    },
+    {
+        "cod_tribunal": "3833301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Molina"
+    },
+    {
+        "cod_tribunal": "4003301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Linares"
+    },
+    {
+        "cod_tribunal": "4003302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de Linares"
+    },
+    {
+        "cod_tribunal": "4073301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de San Javier"
+    },
+    {
+        "cod_tribunal": "4103301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Cauquenes"
+    },
+    {
+        "cod_tribunal": "4123301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar. de Chanco"
+    },
+    {
+        "cod_tribunal": "4043301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Parral"
+    },
+    {
+        "cod_tribunal": "4153101",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado Civil de Chillán"
+    },
+    {
+        "cod_tribunal": "4153102",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado Civil de Chillán"
+    },
+    {
+        "cod_tribunal": "4163303",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de San Carlos"
+    },
+    {
+        "cod_tribunal": "4233301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Yungay"
+    },
+    {
+        "cod_tribunal": "4253302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar. de Bulnes"
+    },
+    {
+        "cod_tribunal": "4293301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Coelemu"
+    },
+    {
+        "cod_tribunal": "4323302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Quirihue"
+    },
+    {
+        "cod_tribunal": "4403301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Los Angeles"
+    },
+    {
+        "cod_tribunal": "4403302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de Los Angeles"
+    },
+    {
+        "cod_tribunal": "4473301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar. de Mulchen"
+    },
+    {
+        "cod_tribunal": "4493301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Nacimiento"
+    },
+    {
+        "cod_tribunal": "4503301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Laja"
+    },
+    {
+        "cod_tribunal": "4523301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Yumbel"
+    },
+    {
+        "cod_tribunal": "4553101",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado Civil de Concepción"
+    },
+    {
+        "cod_tribunal": "4553102",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado Civil de Concepción"
+    },
+    {
+        "cod_tribunal": "4553103",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "3º Juzgado Civil de Concepción"
+    },
+    {
+        "cod_tribunal": "4563101",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado Civil de Talcahuano"
+    },
+    {
+        "cod_tribunal": "4563102",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado Civil de Talcahuano"
+    },
+    {
+        "cod_tribunal": "4583301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Tomé"
+    },
+    {
+        "cod_tribunal": "4593301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Florida"
+    },
+    {
+        "cod_tribunal": "4613301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Santa Juana"
+    },
+    {
+        "cod_tribunal": "4623301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar. de Lota"
+    },
+    {
+        "cod_tribunal": "4633301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Coronel"
+    },
+    {
+        "cod_tribunal": "4633302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de Coronel"
+    },
+    {
+        "cod_tribunal": "4653301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Lebu"
+    },
+    {
+        "cod_tribunal": "4663301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Arauco"
+    },
+    {
+        "cod_tribunal": "4673301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Curanilahue"
+    },
+    {
+        "cod_tribunal": "4693301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Cañete"
+    },
+    {
+        "cod_tribunal": "4453301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar. Santa Bárbara"
+    },
+    {
+        "cod_tribunal": "4413301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Cabrero"
+    },
+    {
+        "cod_tribunal": "4903101",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado Civil de Temuco"
+    },
+    {
+        "cod_tribunal": "4903102",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado Civil de Temuco"
+    },
+    {
+        "cod_tribunal": "4753301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Angol"
+    },
+    {
+        "cod_tribunal": "4773301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Collipulli"
+    },
+    {
+        "cod_tribunal": "4823301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Traiguén"
+    },
+    {
+        "cod_tribunal": "4813301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Victoria"
+    },
+    {
+        "cod_tribunal": "4793301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Curacautin"
+    },
+    {
+        "cod_tribunal": "5023301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras Loncoche"
+    },
+    {
+        "cod_tribunal": "5003301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Pitrufquen"
+    },
+    {
+        "cod_tribunal": "4983301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Villarrica"
+    },
+    {
+        "cod_tribunal": "5973301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Nueva Imperial"
+    },
+    {
+        "cod_tribunal": "4973301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Pucón"
+    },
+    {
+        "cod_tribunal": "4913301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Lautaro"
+    },
+    {
+        "cod_tribunal": "5063301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Carahue"
+    },
+    {
+        "cod_tribunal": "4903103",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "3º Juzgado Civil de Temuco"
+    },
+    {
+        "cod_tribunal": "5033301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Tolten"
+    },
+    {
+        "cod_tribunal": "4843301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Puren"
+    },
+    {
+        "cod_tribunal": "5103101",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado Civil de Valdivia"
+    },
+    {
+        "cod_tribunal": "5103102",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado Civil de Valdivia"
+    },
+    {
+        "cod_tribunal": "5113301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Mariquina"
+    },
+    {
+        "cod_tribunal": "5193301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Paillaco"
+    },
+    {
+        "cod_tribunal": "5133301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras Los Lagos"
+    },
+    {
+        "cod_tribunal": "5173301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar. de Panguipulli"
+    },
+    {
+        "cod_tribunal": "5183302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de la Unión"
+    },
+    {
+        "cod_tribunal": "5203301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Río Bueno"
+    },
+    {
+        "cod_tribunal": "5253301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Osorno"
+    },
+    {
+        "cod_tribunal": "5253302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de Osorno"
+    },
+    {
+        "cod_tribunal": "5303301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Rio Negro"
+    },
+    {
+        "cod_tribunal": "5353101",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado Civil de Puerto Montt"
+    },
+    {
+        "cod_tribunal": "5353102",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado Civil de Puerto Montt"
+    },
+    {
+        "cod_tribunal": "5363301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Puerto Varas"
+    },
+    {
+        "cod_tribunal": "5383301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Calbuco"
+    },
+    {
+        "cod_tribunal": "5393301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar. de Maullin"
+    },
+    {
+        "cod_tribunal": "5453301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Castro"
+    },
+    {
+        "cod_tribunal": "5463301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Ancud"
+    },
+    {
+        "cod_tribunal": "5503301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Achao"
+    },
+    {
+        "cod_tribunal": "5603301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar. de Chaitén"
+    },
+    {
+        "cod_tribunal": "5403301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar. de Los Muermos"
+    },
+    {
+        "cod_tribunal": "5543301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar. de Quellón"
+    },
+    {
+        "cod_tribunal": "5613301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar. de Hualaihue"
+    },
+    {
+        "cod_tribunal": "5653301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Coyhaique"
+    },
+    {
+        "cod_tribunal": "5703301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de pto.Aysen"
+    },
+    {
+        "cod_tribunal": "5753301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Chile Chico"
+    },
+    {
+        "cod_tribunal": "5803301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Cochrane"
+    },
+    {
+        "cod_tribunal": "5713301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Puerto Cisnes"
+    },
+    {
+        "cod_tribunal": "5903301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Punta Arenas"
+    },
+    {
+        "cod_tribunal": "5903302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de Punta Arenas"
+    },
+    {
+        "cod_tribunal": "5903303",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "3º Juzgado de Letras de Punta Arenas"
+    },
+    {
+        "cod_tribunal": "5853301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar. de Puerto Natales"
+    },
+    {
+        "cod_tribunal": "5953301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Gar.de Porvenir"
+    },
+    {
+        "cod_tribunal": "6003301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Cabo de Hornos"
+    },
+    {
+        "cod_tribunal": "6053101",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053102",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053103",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "3º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053104",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "4º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053105",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "5º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053106",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "6º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053107",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "7º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053108",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "8º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053109",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "9º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053110",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "10º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053111",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "11º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053112",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "12º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053113",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "13º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053114",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "14º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053115",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "15º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053116",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "16º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053117",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "17º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053118",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "18º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053119",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "19º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053120",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "20º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053121",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "21º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053122",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "22º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053123",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "23º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053124",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "24º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053125",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "25º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053126",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "26º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053127",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "27º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053128",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "28º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053129",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "29º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6053130",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "30º Juzgado Civil de Santiago"
+    },
+    {
+        "cod_tribunal": "6403301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Colina"
+    },
+    {
+        "cod_tribunal": "6233101",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado Civil de San Miguel"
+    },
+    {
+        "cod_tribunal": "6233102",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado Civil de San Miguel"
+    },
+    {
+        "cod_tribunal": "6233103",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "3º Juzgado Civil de San Miguel"
+    },
+    {
+        "cod_tribunal": "6233104",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "4º Juzgado Civil de San Miguel"
+    },
+    {
+        "cod_tribunal": "6453101",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado Civil de Puente Alto"
+    },
+    {
+        "cod_tribunal": "6703301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado De Letras De Talagante"
+    },
+    {
+        "cod_tribunal": "6703302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado De Letras De Talagante"
+    },
+    {
+        "cod_tribunal": "6603301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Melipilla"
+    },
+    {
+        "cod_tribunal": "6513301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Buin"
+    },
+    {
+        "cod_tribunal": "6513302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de Buin"
+    },
+    {
+        "cod_tribunal": "6713301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Peñaflor"
+    },
+    {
+        "cod_tribunal": "6503301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de San Bernardo"
+    },
+    {
+        "cod_tribunal": "6503302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de San Bernardo"
+    }
+]

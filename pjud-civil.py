@@ -78,7 +78,7 @@ for tribunal in tribunales:
             except IllegalCharacterError: #si el dato viene con algun caracter ilegal, lo reemplaza por un espacio
                 with open("caracteres_ilegales.txt", "a", encoding="utf-8") as file:
                     file.write(f"Tribunal: {tribunal["nombre_tribunal"]}, {row}\n")
-                cleaned_row = [ILLEGAL_CHARACTERS_RE.sub(" ", str(cell)) for cell in row]
+                cleaned_row = [ILLEGAL_CHARACTERS_RE.sub("", str(cell)) for cell in row]
                 ws.append(cleaned_row)
         wb.save("Estados_diarios_CIVIL.xlsx")
         print(f"Estados diarios de '{tribunal['nombre_tribunal']}' guardados")

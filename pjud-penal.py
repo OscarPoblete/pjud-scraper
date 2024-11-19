@@ -11,8 +11,16 @@ from openpyxl.cell.cell import ILLEGAL_CHARACTERS_RE
 
 url = "https://www.pjud.cl/ajax/Courts/getDailyStatements"
 
-with open("TRIBUNALES_penal.json", "r", encoding="utf-8") as file: #lee el archivo TRIBUNALES.json generado por pjud-tribunales.py
-    tribunales = json.load(file)
+tribunales = [{
+        "cod_tribunal": "6054003",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "3º Juzgado De Garantía De Santiago"
+    },
+    {
+        "cod_tribunal": "6404001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Colina"
+    }]
 
 fechas = ["29-09-2024", "30-09-2024", "01-10-2024", "02-10-2024", "03-10-2024", "04-10-2024", "05-10-2024", "06-10-2024", "07-10-2024", "08-10-2024", "09-10-2024", "10-10-2024", "11-10-2024", "12-10-2024", "13-10-2024", "14-10-2024", "15-10-2024", "16-10-2024", "17-10-2024", "18-10-2024", "19-10-2024", "20-10-2024", "21-10-2024", "22-10-2024"]
 
@@ -78,7 +86,7 @@ for tribunal in tribunales:
             except IllegalCharacterError: #si el dato viene con algun caracter ilegal, lo reemplaza por un espacio
                 with open("caracteres_ilegales.txt", "a", encoding="utf-8") as file:
                     file.write(f"Tribunal: {tribunal["nombre_tribunal"]}, {row}\n")
-                cleaned_row = [ILLEGAL_CHARACTERS_RE.sub(" ", str(cell)) for cell in row]
+                cleaned_row = [ILLEGAL_CHARACTERS_RE.sub("", str(cell)) for cell in row]
                 ws.append(cleaned_row)
         wb.save("Estados_diarios_PENAL.xlsx")
         print(f"Estados diarios de '{tribunal['nombre_tribunal']}' guardados")

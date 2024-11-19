@@ -1,0 +1,712 @@
+[
+    {
+        "cod_tribunal": "2013801",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras del Trabajo de Arica"
+    },
+    {
+        "cod_tribunal": "2153302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras y Garantía de Pozo Almonte"
+    },
+    {
+        "cod_tribunal": "2103801",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras del Trabajo de Iquique"
+    },
+    {
+        "cod_tribunal": "2203301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Tocopilla"
+    },
+    {
+        "cod_tribunal": "2213301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Maria Elena"
+    },
+    {
+        "cod_tribunal": "2333301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras y Garantia de Taltal"
+    },
+    {
+        "cod_tribunal": "2303801",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras del Trabajo de Antofagasta"
+    },
+    {
+        "cod_tribunal": "2253801",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras del Trabajo de Calama"
+    },
+    {
+        "cod_tribunal": "2313301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras y Garantía de Mejillones"
+    },
+    {
+        "cod_tribunal": "2353301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras y Garantia de Chañaral"
+    },
+    {
+        "cod_tribunal": "2363301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Diego de Almagro"
+    },
+    {
+        "cod_tribunal": "2463301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantia de Freirina"
+    },
+    {
+        "cod_tribunal": "2453301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Vallenar"
+    },
+    {
+        "cod_tribunal": "2453302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de Vallenar"
+    },
+    {
+        "cod_tribunal": "2413301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantia de Caldera"
+    },
+    {
+        "cod_tribunal": "2403801",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras del Trabajo de Copiapo"
+    },
+    {
+        "cod_tribunal": "2543301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Vicuña"
+    },
+    {
+        "cod_tribunal": "2533301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Andacollo"
+    },
+    {
+        "cod_tribunal": "2603301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Ovalle"
+    },
+    {
+        "cod_tribunal": "2603302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de Ovalle"
+    },
+    {
+        "cod_tribunal": "2603303",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "3º Juzgado de Letras de Ovalle"
+    },
+    {
+        "cod_tribunal": "2633301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Combarbalá"
+    },
+    {
+        "cod_tribunal": "2703301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Illapel"
+    },
+    {
+        "cod_tribunal": "2723301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantia de los Vilos"
+    },
+    {
+        "cod_tribunal": "2503801",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras del Trabajo de La Serena"
+    },
+    {
+        "cod_tribunal": "3143303",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Quilpue"
+    },
+    {
+        "cod_tribunal": "3143304",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de Quilpue"
+    },
+    {
+        "cod_tribunal": "3153301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras de Villa Alemana"
+    },
+    {
+        "cod_tribunal": "3163301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de CasaBlanca"
+    },
+    {
+        "cod_tribunal": "2753301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras de La Ligua"
+    },
+    {
+        "cod_tribunal": "2763301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Petorca"
+    },
+    {
+        "cod_tribunal": "2853301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de los Andes"
+    },
+    {
+        "cod_tribunal": "2853302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de los Andes"
+    },
+    {
+        "cod_tribunal": "2913301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantia de Putaendo"
+    },
+    {
+        "cod_tribunal": "3003301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Quillota"
+    },
+    {
+        "cod_tribunal": "3003302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de Quillota"
+    },
+    {
+        "cod_tribunal": "3024001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras de La Calera"
+    },
+    {
+        "cod_tribunal": "3053301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Limache"
+    },
+    {
+        "cod_tribunal": "3203301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de San Antonio"
+    },
+    {
+        "cod_tribunal": "3203302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de San Antonio"
+    },
+    {
+        "cod_tribunal": "3303301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Isla de Pascua"
+    },
+    {
+        "cod_tribunal": "3123301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantia de Quintero"
+    },
+    {
+        "cod_tribunal": "3103701",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. Cob. Laboral y Previsional de Valparaíso"
+    },
+    {
+        "cod_tribunal": "2903801",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras del Trabajo de San Felipe"
+    },
+    {
+        "cod_tribunal": "3423301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras de Rengo"
+    },
+    {
+        "cod_tribunal": "3453301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras de San Vicente"
+    },
+    {
+        "cod_tribunal": "3473301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras y Garantia de Peumo"
+    },
+    {
+        "cod_tribunal": "3553301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1°Jdo. de Letras de San Fernando"
+    },
+    {
+        "cod_tribunal": "3553302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2°Jdo. de Letras de San Fernando"
+    },
+    {
+        "cod_tribunal": "3603301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras de Santa Cruz"
+    },
+    {
+        "cod_tribunal": "3703301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras y Garantia de Pichilemu"
+    },
+    {
+        "cod_tribunal": "3723301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras y Garantia de Litueche"
+    },
+    {
+        "cod_tribunal": "3643301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras y Garantia de Peralillo"
+    },
+    {
+        "cod_tribunal": "3353801",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras del Trabajo de Rancagua"
+    },
+    {
+        "cod_tribunal": "3973301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras de Constitución"
+    },
+    {
+        "cod_tribunal": "3983301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Curepto"
+    },
+    {
+        "cod_tribunal": "3863301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Licanten"
+    },
+    {
+        "cod_tribunal": "3833301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Molina"
+    },
+    {
+        "cod_tribunal": "4003301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Linares"
+    },
+    {
+        "cod_tribunal": "4003302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado de Letras de Linares"
+    },
+    {
+        "cod_tribunal": "4073301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de San Javier"
+    },
+    {
+        "cod_tribunal": "4103301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Cauquenes"
+    },
+    {
+        "cod_tribunal": "4123301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Chanco"
+    },
+    {
+        "cod_tribunal": "4043301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Parral"
+    },
+    {
+        "cod_tribunal": "3803801",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras del Trabajo de Curicó"
+    },
+    {
+        "cod_tribunal": "3903801",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras del Trabajo de Talca"
+    },
+    {
+        "cod_tribunal": "4163303",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de San Carlos"
+    },
+    {
+        "cod_tribunal": "4233301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Yungay"
+    },
+    {
+        "cod_tribunal": "4253302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Bulnes"
+    },
+    {
+        "cod_tribunal": "4293301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Coelemu"
+    },
+    {
+        "cod_tribunal": "4323302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantia de Quirihue"
+    },
+    {
+        "cod_tribunal": "4153801",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras del Trabajo de Chillan"
+    },
+    {
+        "cod_tribunal": "4473301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Mulchen"
+    },
+    {
+        "cod_tribunal": "4493301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Nacimiento"
+    },
+    {
+        "cod_tribunal": "4503301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Laja"
+    },
+    {
+        "cod_tribunal": "4523301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Yumbel"
+    },
+    {
+        "cod_tribunal": "4583301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Tome"
+    },
+    {
+        "cod_tribunal": "4593301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Florida"
+    },
+    {
+        "cod_tribunal": "4613301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Santa Juana"
+    },
+    {
+        "cod_tribunal": "4623301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Lota"
+    },
+    {
+        "cod_tribunal": "4633301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1° Juzgado de Letras de Coronel"
+    },
+    {
+        "cod_tribunal": "4633302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2° Juzgado de Letras de Coronel"
+    },
+    {
+        "cod_tribunal": "4653301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Lebu"
+    },
+    {
+        "cod_tribunal": "4663301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Arauco"
+    },
+    {
+        "cod_tribunal": "4673301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Curanilahue"
+    },
+    {
+        "cod_tribunal": "4693301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Cañete"
+    },
+    {
+        "cod_tribunal": "4453301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Santa Barbara"
+    },
+    {
+        "cod_tribunal": "4413301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Cabrero"
+    },
+    {
+        "cod_tribunal": "4553701",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. Cob. Laboral y Previsional de Concepción"
+    },
+    {
+        "cod_tribunal": "4403801",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras del Trabajo de Los Ángeles"
+    },
+    {
+        "cod_tribunal": "4753301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1°Jdo. de Letras de angol"
+    },
+    {
+        "cod_tribunal": "4773301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantia de Collipulli"
+    },
+    {
+        "cod_tribunal": "4823301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Traiguen"
+    },
+    {
+        "cod_tribunal": "4813301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Victoria"
+    },
+    {
+        "cod_tribunal": "4793301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Curacautín"
+    },
+    {
+        "cod_tribunal": "5023301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Loncoche"
+    },
+    {
+        "cod_tribunal": "5003301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Pitrufquen"
+    },
+    {
+        "cod_tribunal": "4983301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Villarrica"
+    },
+    {
+        "cod_tribunal": "5973301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Nueva Imperial"
+    },
+    {
+        "cod_tribunal": "4973301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantia de Pucón"
+    },
+    {
+        "cod_tribunal": "4913301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Lautaro"
+    },
+    {
+        "cod_tribunal": "5063301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Carahue"
+    },
+    {
+        "cod_tribunal": "5033301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantia de Tolten"
+    },
+    {
+        "cod_tribunal": "4843301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantia de Puren"
+    },
+    {
+        "cod_tribunal": "4903801",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras del Trabajo de Temuco"
+    },
+    {
+        "cod_tribunal": "5114001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras de Mariquina"
+    },
+    {
+        "cod_tribunal": "5193301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantia de Paillaco"
+    },
+    {
+        "cod_tribunal": "5133301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Los Lagos"
+    },
+    {
+        "cod_tribunal": "5173301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantia de Panguipulli"
+    },
+    {
+        "cod_tribunal": "5183302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras y Garantía de La Unión"
+    },
+    {
+        "cod_tribunal": "5203301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantia de Rio Bueno"
+    },
+    {
+        "cod_tribunal": "5103801",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras del Trabajo de Valdivia"
+    },
+    {
+        "cod_tribunal": "5253801",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras del Trabajo de Osorno"
+    },
+    {
+        "cod_tribunal": "5363301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado de Letras de Puerto Varas"
+    },
+    {
+        "cod_tribunal": "5383301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Calbuco"
+    },
+    {
+        "cod_tribunal": "5393301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Maullin"
+    },
+    {
+        "cod_tribunal": "5463301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Ancud"
+    },
+    {
+        "cod_tribunal": "5503301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Achao"
+    },
+    {
+        "cod_tribunal": "5603301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantia de Chaiten"
+    },
+    {
+        "cod_tribunal": "5403301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantia de Los Muermo"
+    },
+    {
+        "cod_tribunal": "5613301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantía de Hualaihue"
+    },
+    {
+        "cod_tribunal": "5353801",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras del Trabajo de Puerto Montt"
+    },
+    {
+        "cod_tribunal": "5453801",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras del Trabajo de Castro"
+    },
+    {
+        "cod_tribunal": "5703301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras de Letras y Garantia de Aysen"
+    },
+    {
+        "cod_tribunal": "5753301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantia de Chile Chico"
+    },
+    {
+        "cod_tribunal": "5803301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantia de Cochrane"
+    },
+    {
+        "cod_tribunal": "5713301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantia de Puerto Cisne"
+    },
+    {
+        "cod_tribunal": "5653801",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras del Trabajo de Coyhaique"
+    },
+    {
+        "cod_tribunal": "5853301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras y Garantia de Puerto Natales"
+    },
+    {
+        "cod_tribunal": "5953301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras y Garantia de Porvenir"
+    },
+    {
+        "cod_tribunal": "5903801",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras del Trabajo Punta arenas"
+    },
+    {
+        "cod_tribunal": "6403301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras de Colina"
+    },
+    {
+        "cod_tribunal": "6053701",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. Cob. Laboral y Previsional de Santiago"
+    },
+    {
+        "cod_tribunal": "6703301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1° Juzgado de Letras de Talagante"
+    },
+    {
+        "cod_tribunal": "6703302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2° Juzgado de Letras de Talagante"
+    },
+    {
+        "cod_tribunal": "6603301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1° Juzgado de Letras de Melipilla"
+    },
+    {
+        "cod_tribunal": "6513301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1° Juzgado de Letras de Buin"
+    },
+    {
+        "cod_tribunal": "6513302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2° Juzgado de Letras de Buin"
+    },
+    {
+        "cod_tribunal": "6713301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado de Letras de Peñaflor"
+    },
+    {
+        "cod_tribunal": "6233701",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. Cob. Laboral y Previsional de San Miguel"
+    },
+    {
+        "cod_tribunal": "6503801",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras del Trabajo de San Bernardo"
+    },
+    {
+        "cod_tribunal": "6453801",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Jdo. de Letras del Trabajo de Puente Alto"
+    }
+]

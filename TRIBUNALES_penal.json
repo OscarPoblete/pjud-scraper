@@ -1,0 +1,972 @@
+[
+    {
+        "cod_tribunal": "2012001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De Arica"
+    },
+    {
+        "cod_tribunal": "2014001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Arica"
+    },
+    {
+        "cod_tribunal": "2153302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Pozo Almonte"
+    },
+    {
+        "cod_tribunal": "2102001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De Iquique"
+    },
+    {
+        "cod_tribunal": "2104001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Iquique"
+    },
+    {
+        "cod_tribunal": "2213301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De María Elena"
+    },
+    {
+        "cod_tribunal": "2333301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Taltal"
+    },
+    {
+        "cod_tribunal": "2252001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De Calama"
+    },
+    {
+        "cod_tribunal": "2302001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De Antofagasta"
+    },
+    {
+        "cod_tribunal": "2204001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Tocopilla"
+    },
+    {
+        "cod_tribunal": "2254001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Calama"
+    },
+    {
+        "cod_tribunal": "2304001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Antofagasta"
+    },
+    {
+        "cod_tribunal": "2313301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantia De Mejillones"
+    },
+    {
+        "cod_tribunal": "2353301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantia De Chañaral"
+    },
+    {
+        "cod_tribunal": "2463301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Freirina"
+    },
+    {
+        "cod_tribunal": "2413301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Caldera"
+    },
+    {
+        "cod_tribunal": "2402001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De Copiapo"
+    },
+    {
+        "cod_tribunal": "2364001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Diego De Almagro"
+    },
+    {
+        "cod_tribunal": "2404001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Copiapo"
+    },
+    {
+        "cod_tribunal": "2454001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Vallenar"
+    },
+    {
+        "cod_tribunal": "2533301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Andacollo."
+    },
+    {
+        "cod_tribunal": "2633301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Combarbala"
+    },
+    {
+        "cod_tribunal": "2723301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Los Vilos"
+    },
+    {
+        "cod_tribunal": "2502001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De La Serena"
+    },
+    {
+        "cod_tribunal": "2602001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De Ovalle"
+    },
+    {
+        "cod_tribunal": "2504001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De La Serena"
+    },
+    {
+        "cod_tribunal": "2524001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Coquimbo"
+    },
+    {
+        "cod_tribunal": "2544001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Vicuña"
+    },
+    {
+        "cod_tribunal": "2604001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Ovalle"
+    },
+    {
+        "cod_tribunal": "2704001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Illapel"
+    },
+    {
+        "cod_tribunal": "2763301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Petorca"
+    },
+    {
+        "cod_tribunal": "2913301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Putaendo"
+    },
+    {
+        "cod_tribunal": "3303301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Isla De Pascua"
+    },
+    {
+        "cod_tribunal": "3123301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Quintero"
+    },
+    {
+        "cod_tribunal": "3104001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Valparaíso"
+    },
+    {
+        "cod_tribunal": "3114001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantia De Viña Del Mar"
+    },
+    {
+        "cod_tribunal": "3144002",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Quilpué"
+    },
+    {
+        "cod_tribunal": "3112001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal Viña Del Mar"
+    },
+    {
+        "cod_tribunal": "3204001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De San Antonio"
+    },
+    {
+        "cod_tribunal": "3164001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Casablanca"
+    },
+    {
+        "cod_tribunal": "2904001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De San Felipe"
+    },
+    {
+        "cod_tribunal": "3002001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De Quillota"
+    },
+    {
+        "cod_tribunal": "3102001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De Valparaíso"
+    },
+    {
+        "cod_tribunal": "3054001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Limache"
+    },
+    {
+        "cod_tribunal": "3024001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De La Calera"
+    },
+    {
+        "cod_tribunal": "3004001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Quillota"
+    },
+    {
+        "cod_tribunal": "2852001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De Los Andes"
+    },
+    {
+        "cod_tribunal": "2902001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De San Felipe"
+    },
+    {
+        "cod_tribunal": "2854001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Los Andes"
+    },
+    {
+        "cod_tribunal": "3154001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Villa Alemana"
+    },
+    {
+        "cod_tribunal": "3202001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal San Antonio"
+    },
+    {
+        "cod_tribunal": "3473301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado De Letras Y Garantía De Peumo"
+    },
+    {
+        "cod_tribunal": "3703301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Pichilemu"
+    },
+    {
+        "cod_tribunal": "3554001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De San Fernando"
+    },
+    {
+        "cod_tribunal": "3602001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De Santa Cruz"
+    },
+    {
+        "cod_tribunal": "3604001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Santa Cruz"
+    },
+    {
+        "cod_tribunal": "3424001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Rengo"
+    },
+    {
+        "cod_tribunal": "3552001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal San Fernando"
+    },
+    {
+        "cod_tribunal": "3364001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Graneros"
+    },
+    {
+        "cod_tribunal": "3354001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Rancagua"
+    },
+    {
+        "cod_tribunal": "3352001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De Rancagua"
+    },
+    {
+        "cod_tribunal": "3454001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De San Vicente De Tagua-Tagua"
+    },
+    {
+        "cod_tribunal": "3723301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Litueche"
+    },
+    {
+        "cod_tribunal": "3643301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Peralillo"
+    },
+    {
+        "cod_tribunal": "3983301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Curepto"
+    },
+    {
+        "cod_tribunal": "3863301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Licanten"
+    },
+    {
+        "cod_tribunal": "4123301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Chanco"
+    },
+    {
+        "cod_tribunal": "3802001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De Curico"
+    },
+    {
+        "cod_tribunal": "3902001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De Talca"
+    },
+    {
+        "cod_tribunal": "4002001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De Linares"
+    },
+    {
+        "cod_tribunal": "4102001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De Cauquenes"
+    },
+    {
+        "cod_tribunal": "3804001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Curico"
+    },
+    {
+        "cod_tribunal": "3834001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Molina"
+    },
+    {
+        "cod_tribunal": "3974001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Constitución"
+    },
+    {
+        "cod_tribunal": "3904001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Talca"
+    },
+    {
+        "cod_tribunal": "4074001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De San Javier"
+    },
+    {
+        "cod_tribunal": "4104001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Cauquenes"
+    },
+    {
+        "cod_tribunal": "4004001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Linares"
+    },
+    {
+        "cod_tribunal": "4044001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Parral"
+    },
+    {
+        "cod_tribunal": "4253302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Bulnes"
+    },
+    {
+        "cod_tribunal": "4293301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Coelemu"
+    },
+    {
+        "cod_tribunal": "4323302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Quirihue"
+    },
+    {
+        "cod_tribunal": "4154001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Chillán"
+    },
+    {
+        "cod_tribunal": "4234001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Yungay"
+    },
+    {
+        "cod_tribunal": "4164002",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De San Carlos"
+    },
+    {
+        "cod_tribunal": "4152001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De Chillán"
+    },
+    {
+        "cod_tribunal": "4473301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Mulchen"
+    },
+    {
+        "cod_tribunal": "4493301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Nacimiento"
+    },
+    {
+        "cod_tribunal": "4503301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Laja"
+    },
+    {
+        "cod_tribunal": "4523301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Yumbel"
+    },
+    {
+        "cod_tribunal": "4593301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Florida"
+    },
+    {
+        "cod_tribunal": "4613301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Santa Juana"
+    },
+    {
+        "cod_tribunal": "4653301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Lebu"
+    },
+    {
+        "cod_tribunal": "4673301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Curanilahue"
+    },
+    {
+        "cod_tribunal": "4453301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Santa Barbara"
+    },
+    {
+        "cod_tribunal": "4364001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De San Pedro De La Paz"
+    },
+    {
+        "cod_tribunal": "4694001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Cañete"
+    },
+    {
+        "cod_tribunal": "4664001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Arauco"
+    },
+    {
+        "cod_tribunal": "4634001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Coronel"
+    },
+    {
+        "cod_tribunal": "4584001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Tomé"
+    },
+    {
+        "cod_tribunal": "4564001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Talcahuano"
+    },
+    {
+        "cod_tribunal": "4534001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Chiguayante"
+    },
+    {
+        "cod_tribunal": "4554001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Concepción"
+    },
+    {
+        "cod_tribunal": "4404001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Los Angeles"
+    },
+    {
+        "cod_tribunal": "4552001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De Concepción"
+    },
+    {
+        "cod_tribunal": "4413301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Cabrero"
+    },
+    {
+        "cod_tribunal": "4402001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal Oral En Lo Penal De Los Angeles"
+    },
+    {
+        "cod_tribunal": "4692001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal Oral En Lo Penal De Cañete"
+    },
+    {
+        "cod_tribunal": "4773301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Collipulli"
+    },
+    {
+        "cod_tribunal": "4823301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Traiguen"
+    },
+    {
+        "cod_tribunal": "4793301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Curacautin"
+    },
+    {
+        "cod_tribunal": "4973301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Pucon"
+    },
+    {
+        "cod_tribunal": "5063301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Carahue"
+    },
+    {
+        "cod_tribunal": "4902001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De Temuco"
+    },
+    {
+        "cod_tribunal": "4752001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De Angol"
+    },
+    {
+        "cod_tribunal": "4982001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De Villarrica"
+    },
+    {
+        "cod_tribunal": "4904001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Temuco"
+    },
+    {
+        "cod_tribunal": "5004001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Pitrufquen"
+    },
+    {
+        "cod_tribunal": "4984001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Villarrica"
+    },
+    {
+        "cod_tribunal": "4754001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Angol"
+    },
+    {
+        "cod_tribunal": "4814001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Victoria"
+    },
+    {
+        "cod_tribunal": "5974001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Nueva Imperial"
+    },
+    {
+        "cod_tribunal": "4914001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Lautaro"
+    },
+    {
+        "cod_tribunal": "5024001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Loncoche"
+    },
+    {
+        "cod_tribunal": "5033301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Tolten"
+    },
+    {
+        "cod_tribunal": "4843301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Puren"
+    },
+    {
+        "cod_tribunal": "5193301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Paillaco"
+    },
+    {
+        "cod_tribunal": "5173301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Panguipulli"
+    },
+    {
+        "cod_tribunal": "5183302",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantia De La Union"
+    },
+    {
+        "cod_tribunal": "5203301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Río Bueno"
+    },
+    {
+        "cod_tribunal": "5104001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Valdivia"
+    },
+    {
+        "cod_tribunal": "5114001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Mariquina"
+    },
+    {
+        "cod_tribunal": "5134001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Los Lagos"
+    },
+    {
+        "cod_tribunal": "5304001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Río Negro"
+    },
+    {
+        "cod_tribunal": "5254001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Osorno"
+    },
+    {
+        "cod_tribunal": "5102001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De Valdivia"
+    },
+    {
+        "cod_tribunal": "5252001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De Osorno"
+    },
+    {
+        "cod_tribunal": "5543301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Quellon"
+    },
+    {
+        "cod_tribunal": "5352001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal Puerto Montt"
+    },
+    {
+        "cod_tribunal": "5383301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Calbuco"
+    },
+    {
+        "cod_tribunal": "5393301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Maullin"
+    },
+    {
+        "cod_tribunal": "5503301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Achao"
+    },
+    {
+        "cod_tribunal": "5603301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Chaiten"
+    },
+    {
+        "cod_tribunal": "5403301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Los Muermos"
+    },
+    {
+        "cod_tribunal": "5613301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Hualaihue"
+    },
+    {
+        "cod_tribunal": "5454001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Castro"
+    },
+    {
+        "cod_tribunal": "5354001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Puerto Montt"
+    },
+    {
+        "cod_tribunal": "5364001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Puerto Varas"
+    },
+    {
+        "cod_tribunal": "5464001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Ancud"
+    },
+    {
+        "cod_tribunal": "5452001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal Oral En Lo Penal De Castro"
+    },
+    {
+        "cod_tribunal": "5703301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Puerto Aysen"
+    },
+    {
+        "cod_tribunal": "5753301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Chile Chico"
+    },
+    {
+        "cod_tribunal": "5803301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Cochrane"
+    },
+    {
+        "cod_tribunal": "5652001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De Coyhaique"
+    },
+    {
+        "cod_tribunal": "5654001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Coyhaique"
+    },
+    {
+        "cod_tribunal": "5713301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Cisnes"
+    },
+    {
+        "cod_tribunal": "5853301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Puerto Natales"
+    },
+    {
+        "cod_tribunal": "5953301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantía De Porvenir"
+    },
+    {
+        "cod_tribunal": "5902001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal Punta Arenas"
+    },
+    {
+        "cod_tribunal": "5904001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Punta Arenas"
+    },
+    {
+        "cod_tribunal": "6003301",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Letras Y Garantia De Cabo De Hornos"
+    },
+    {
+        "cod_tribunal": "6054001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Juzgado De Garantía De Santiago"
+    },
+    {
+        "cod_tribunal": "6054002",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Juzgado De Garantía De Santiago"
+    },
+    {
+        "cod_tribunal": "6054003",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "3º Juzgado De Garantía De Santiago"
+    },
+    {
+        "cod_tribunal": "6054004",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "4º Juzgado De Garantía De Santiago"
+    },
+    {
+        "cod_tribunal": "6054005",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "5º Juzgado De Garantía De Santiago"
+    },
+    {
+        "cod_tribunal": "6054006",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "6º Juzgado De Garantía De Santiago"
+    },
+    {
+        "cod_tribunal": "6054007",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "7º Juzgado De Garantía De Santiago"
+    },
+    {
+        "cod_tribunal": "6054008",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "8º Juzgado De Garantía De Santiago"
+    },
+    {
+        "cod_tribunal": "6054009",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "9º Juzgado De Garantía De Santiago"
+    },
+    {
+        "cod_tribunal": "6054013",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "13º Juzgado De Garantía De Santiago"
+    },
+    {
+        "cod_tribunal": "6054014",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "14º Juzgado De Garantía De Santiago"
+    },
+    {
+        "cod_tribunal": "6404001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Colina"
+    },
+    {
+        "cod_tribunal": "6052001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "1º Tribunal De Juicio Oral En Lo Penal De Santiago"
+    },
+    {
+        "cod_tribunal": "6052002",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "2º Tribunal De Juicio Oral En Lo Penal De Santiago"
+    },
+    {
+        "cod_tribunal": "6052003",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "3º Tribunal De Juicio Oral En Lo Penal De Santiago"
+    },
+    {
+        "cod_tribunal": "6052004",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "4º Tribunal De Juicio Oral En Lo Penal De Santiago"
+    },
+    {
+        "cod_tribunal": "6052005",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "5º Tribunal De Juicio Oral En Lo Penal De Santiago"
+    },
+    {
+        "cod_tribunal": "6052007",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "7º Tribunal De Juicio Oral En Lo Penal De Santiago"
+    },
+    {
+        "cod_tribunal": "6402001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal Colina"
+    },
+    {
+        "cod_tribunal": "6054010",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "10º Juzgado De Garantía De Santiago"
+    },
+    {
+        "cod_tribunal": "6054011",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "11º Juzgado De Garantía De Santiago"
+    },
+    {
+        "cod_tribunal": "6054012",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "12º Juzgado De Garantía De Santiago"
+    },
+    {
+        "cod_tribunal": "6054015",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "15º Juzgado De Garantía De Santiago"
+    },
+    {
+        "cod_tribunal": "6454001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Puente Alto"
+    },
+    {
+        "cod_tribunal": "6504001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De San Bernardo"
+    },
+    {
+        "cod_tribunal": "6604001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Melipilla"
+    },
+    {
+        "cod_tribunal": "6624001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Curacaví"
+    },
+    {
+        "cod_tribunal": "6704001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Juzgado De Garantía De Talagante"
+    },
+    {
+        "cod_tribunal": "6052006",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "6º Tribunal De Juicio Oral En Lo Penal De Santiago"
+    },
+    {
+        "cod_tribunal": "6702001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal Talagante"
+    },
+    {
+        "cod_tribunal": "6452001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal Puente Alto"
+    },
+    {
+        "cod_tribunal": "6502001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal San Bernardo"
+    },
+    {
+        "cod_tribunal": "6602001",
+        "tipo_juzgado": "111",
+        "nombre_tribunal": "Tribunal De Juicio Oral En Lo Penal De Melipilla"
+    }
+]

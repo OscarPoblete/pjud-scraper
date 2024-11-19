@@ -8,7 +8,7 @@ from selenium.common.exceptions import NoSuchElementException
 import json
 import pandas as pd
 
-excel_file = "Pjud_Civil_Cortes_y_Tribunales.xlsx" #archivo excel con la lista de tribunales
+excel_file = "Pjud_Cobranza_Cortes_y_Tribunales.xlsx" #archivo excel con la lista de tribunales
 df = pd.read_excel(excel_file)
 
 #Selenium WebDriver
@@ -58,7 +58,7 @@ for index, row in df.iterrows():
         "nombre_tribunal": nombre_tribunal
     })
 
-    with open("TRIBUNALES_civil.json", "w", encoding="utf-8") as file:
+    with open("TRIBUNALES_cobranza.json", "w", encoding="utf-8") as file:
         json.dump(json_data, file, ensure_ascii=False, indent=4)
 
 print("Scraping terminado.")

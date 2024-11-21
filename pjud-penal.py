@@ -83,7 +83,7 @@ for tribunal in tribunales:
         for row in dataframe_to_rows(df, index=False, header=False):
             try:
                 ws.append(row)
-            except IllegalCharacterError: #si el dato viene con algun caracter ilegal, lo reemplaza por un espacio
+            except IllegalCharacterError: #si el dato viene con algun caracter ilegal, lo saca
                 with open("caracteres_ilegales.txt", "a", encoding="utf-8") as file:
                     file.write(f"Tribunal: {tribunal["nombre_tribunal"]}, {row}\n")
                 cleaned_row = [ILLEGAL_CHARACTERS_RE.sub("", str(cell)) for cell in row]

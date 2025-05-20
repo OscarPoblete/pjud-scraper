@@ -21,20 +21,10 @@ def get_search_token_with_selenium():
     driver = webdriver.Chrome(options=options)
     
     try:
-        # Navigate to home page
+        # Ir al url
         driver.get("https://oficinajudicialvirtual.pjud.cl/home/index.php")
         
-        # Wait for page to fully load
-        WebDriverWait(driver, 10).until(
-            lambda d: d.execute_script("return document.readyState") == "complete"
-        )
-
-        # Wait for the specific button container to load
-        WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.ID, "focus"))
-        )
-
-        # Find button using parent ID and onclick attribute
+        # Click en boton de Consulta Causas
         consulta_button = WebDriverWait(driver, 10).until(
             EC.element_to_be_clickable(
                 (By.XPATH, "//div[@id='focus']/button[contains(@onclick, 'accesoConsultaCausas')]")
@@ -42,12 +32,12 @@ def get_search_token_with_selenium():
         )
         consulta_button.click()
 
-        # Verify navigation to target URL
+        # Verificar que haya ido a la otra url
         WebDriverWait(driver, 10).until(
             EC.url_contains("indexN.php")
         )
 
-        # Wait for token input to be available
+        # Obtener el token de recaptcha
         token_input = WebDriverWait(driver, 10).until(
             EC.presence_of_element_located((By.NAME, "g-recaptcha-response-rit"))
         )
@@ -62,17 +52,15 @@ def get_search_token_with_selenium():
     finally:
         driver.quit()
 
-# Step 1: Use Selenium to get the token and cookies
+# Con selenium obtener el token y las cookies de la sesion
 token, selenium_cookies = get_search_token_with_selenium()
 
-# Step 2: Create a requests session with Selenium's cookies
+# Crear una sesion de requests y usar las cookies de selenium
 session = requests.Session()
-
-# Add Selenium cookies to requests session
 for cookie in selenium_cookies:
     session.cookies.set(cookie['name'], cookie['value'])
 
-# Set headers (same as your original setup)
+# Headers para la consulta
 session.headers = {
     "Accept": "*/*",
     "Accept-Language": "en,en-US;q=0.9,es;q=0.8,es-US;q=0.7",
@@ -84,7 +72,7 @@ session.headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
 }
 
-# Prepare payload (same as your original)
+# Payload de la consulta
 payload = {
     "g-recaptcha-response-rit": token,
     "action": "validate_captcha_rit",
@@ -104,7 +92,7 @@ payload = {
     "conCaratulado": "",
 }
 
-# Step 3: Use requests for the POST
+# Hacer el post request
 url = "https://oficinajudicialvirtual.pjud.cl/ADIR_871/civil/consultaRitCivil.php"
 response = session.post(url, data=payload)
 

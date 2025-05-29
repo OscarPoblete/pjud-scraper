@@ -1,4 +1,6 @@
-from selenium import webdriver
+from seleniumwire import webdriver
+import re
+
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -43,7 +45,19 @@ def get_search_token_with_selenium():
         )
         token = token_input.get_attribute("value")
 
-        return token, driver.get_cookies()
+        for request in driver.requests:
+            if request.response and "consultaUnificada.php" in request.url:
+                try:
+                    body = request.response.body.decode('utf-8', errors='ignore')
+
+                    match = re.search(r"token:\s*'([a-f0-9]{32})'", body)
+                    if match:
+                        token_unificado = match.group(1)
+                        print("Token unificado encontrado:", token_unificado)
+                except Exception as e:
+                    print("Error al procesar la respuesta de la solicitud:", e)
+
+        return token, driver.get_cookies(), token_unificado
 
     except Exception as e:
         print("Final URL:", driver.current_url)
@@ -53,7 +67,7 @@ def get_search_token_with_selenium():
         driver.quit()
 
 # Con selenium obtener el token y las cookies de la sesion
-token, selenium_cookies = get_search_token_with_selenium()
+token, selenium_cookies, token_unificado = get_search_token_with_selenium()
 
 # Crear una sesion de requests y usar las cookies de selenium
 session = requests.Session()
@@ -98,6 +112,7 @@ response = session.post(url, data=payload)
 
 if response.status_code == 200:
     soup = BeautifulSoup(response.text, 'lxml')
-    print(response.text)
+    print(f"{response.text}\n\n")
+    print(token_unificado)
 else:
     print(f"Request failed with status code: {response.status_code}")
